@@ -72,7 +72,7 @@ const HomeContent = (props) => {
                       </div>
                     </div>
                     <span className="text-normal text-lg md:text-xl text-center self-stretch leading-[30px]">
-                      AMM protocol for perpetual futures that never get liquidated.
+                      On-chain Speculation Market for any Price or Value
                     </span>
                   </div>
                   <div className="flex flex-row items-start gap-10 max-w-[384px]">
@@ -119,7 +119,7 @@ const HomeContent = (props) => {
                       </div>
                     </div>
                     <span className="text-normal text-xl text-center self-stretch leading-[30px]">
-                      AMM protocol for perpetual futures that never get liquidated.
+                      On-chain Speculation Market<br/>for any Price or Value
                     </span>
                   </div>
                   <div className="flex flex-row items-start justify-center max-w-[384px] gap-6">

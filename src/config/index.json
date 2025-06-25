@@ -52,7 +52,7 @@
     },
     {
       "title": "High Resistance",
-      "content": "Perpetual pools are protected against manipulations and extractions with the double prices system, maturity, and premiums.",
+      "content": "Speculation pools are protected against manipulations and extractions with the double prices system, maturity, and premiums.",
       "path": "protocol/premium",
       "icon": "HighResistance"
     },

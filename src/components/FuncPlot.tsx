@@ -48,7 +48,7 @@ const FunctionPlot = (props) => {
           <div className="flex flex-col items-center justify-center text-center gap-6">
             <p className="text-heading text-5xl">ASYMPTOTIC POWER CURVES</p>
             <p className="text-normal text-lg">
-              No Liquidation. Infinite Liquidity.
+              No risk of Liquidation. Everlasting Market.
             </p>
           </div>
           <GraphingCalculator
@@ -167,7 +167,7 @@ const FunctionPlot = (props) => {
           <div className="flex flex-col items-center justify-center text-center gap-6">
             <p className="text-heading text-[34px]">ASYMPTOTIC POWER CURVES</p>
             <p className="text-normal text-base">
-              No Liquidation. Infinite Liquidity.
+              No risk of Liquidation. Everlasting Market.
             </p>
           </div>
           <GraphingCalculator
@@ -281,7 +281,7 @@ const FunctionPlot = (props) => {
             />
           </GraphingCalculator>
           <div className="text-normal text-base text-sm">
-            (drag 2 points to move the price)
+            (drag points to move the price)
           </div>
         </div>
       )}

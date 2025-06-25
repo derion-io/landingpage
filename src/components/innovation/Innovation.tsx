@@ -55,10 +55,10 @@ const Innovation = (props) => {
           </p>
           <div className="flex flex-col">
             <p className="text-normal text-lg text-center">
-              Uniswap solves the spot DEX problems.
+              Uniswap solves the prediction market.
             </p>
             <p className="text-normal text-lg text-center">
-              Derion solves the perpetual futures DEX problems.
+              Derion solves the speculation market.
             </p>
           </div>
         </div>
