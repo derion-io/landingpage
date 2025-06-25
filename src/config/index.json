@@ -64,7 +64,7 @@
     }
   ],
   "about": {
-    "heading": "Derion is the first Perpetuals Automated Market Maker (AMM) Protocol with infinite liquidity and no liquidation.",
+    "heading": "Derion is the first Decentralized Speculation Market with infinite liquidity and no liquidation.",
     "explain": "Our innovative pricing mechanism utilizes a novel Asymptotic Power Curve to ensure that positions are never liquidated and liquidity is always available, even during periods of extreme market volatility."
   },
   "vision": {
@@ -72,8 +72,8 @@
     "text-2": "Leverage positions can be HOLD'ed with no risk of liquidation, and the market liquidity is always available."
   },
   "mission": {
-    "text-1": "Just as Uniswap has solved the spot DEX problems. We aim to solve the perpetual futures DEX problems with our novel derivatives pricing curve.",
-    "text-2": "With our AMM, users can create perpetual markets for any token with their preferred leverage, interest rate, premium, and fee, providing the DeFi community with an unprecedented tool for derivatives trading, asset hedging, and market making."
+    "text-1": "Just as Uniswap has solved the prediction market problems. We aim to solve the speculation market problems with our novel derivatives pricing curve.",
+    "text-2": "With our AMM, users can create speculation markets for any token with their preferred leverage, interest rate, premium, and fee, providing the DeFi community with an unprecedented tool for derivatives trading, asset hedging, and market making."
   },
   "topic": {
     "topic-1": "TOPIC 1",
