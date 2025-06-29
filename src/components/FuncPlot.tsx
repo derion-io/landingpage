@@ -70,7 +70,7 @@ const FunctionPlot = (props) => {
             xAxisArrowMode="POSITIVE"
             yAxisArrowMode="POSITIVE"
             xAxisLabel="Price"
-            yAxisLabel="Value"
+            yAxisLabel="Position"
           >
             <Expression id="f" latex={process.env.REACT_APP_FX} hidden />
             <Expression id="g" latex={process.env.REACT_APP_GX} hidden />
@@ -80,7 +80,7 @@ const FunctionPlot = (props) => {
               color="RED"
               hidden
               showLabel
-              label="Pool Reserve"
+              label="Reserve"
               labelOrientation="RIGHT"
             />
             <Expression
@@ -189,7 +189,7 @@ const FunctionPlot = (props) => {
             xAxisArrowMode="POSITIVE"
             yAxisArrowMode="POSITIVE"
             xAxisLabel="Price"
-            yAxisLabel="Value"
+            yAxisLabel="Position"
           >
             <Expression id="f" latex={process.env.REACT_APP_FX} hidden />
             <Expression id="g" latex={process.env.REACT_APP_GX} hidden />
@@ -199,7 +199,7 @@ const FunctionPlot = (props) => {
               color="RED"
               hidden
               showLabel
-              label="Pool Reserve"
+              label="Reserve"
               labelOrientation="RIGHT"
             />
             <Expression
