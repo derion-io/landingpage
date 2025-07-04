@@ -6,7 +6,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "deploy": "cp -r ./build/* ../../derionio/derionio.github.io/;",
-    "clean": "rm -rf ../derionio.github.io/docs/static/* ../derionio.github.io/docs/index.html"
+    "clean": "rm -rf ../../derionio/derionio.github.io/static/* ../../derionio/derionio.github.io/index.html"
   },
   "dependencies": {
     "@headlessui/react": "^1.7.15",
